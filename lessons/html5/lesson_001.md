@@ -1,3 +1,5 @@
+**Lesson 1: Bare Minimum HTML**
+
 What is HTML?  
 _Hyper-Text Markup Language_  
 https://www.w3.org/TR/2014/REC-html5-20141028/
