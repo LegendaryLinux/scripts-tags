@@ -1,0 +1,27 @@
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    padding:0.25em;
+}
+
+thead{
+    background-color:grey;
+}
+
+thead th, tbody td{
+    border:1px solid black;
+}
+
+tbody tr{
+    background-color:lightgrey;
+}
+
+tbody tr:hover{
+    background-color:navajowhite;
+}
+
+tfoot td{
+    font-weight:bold;
+}
